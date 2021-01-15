@@ -1,5 +1,7 @@
 server:
   port: 9005
+test:
+  aa: 456
 
 
 
